@@ -42,7 +42,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/tonistiigi/fsutil v0.0.0-20191018213012-0f039a052ca1 // indirect
 	github.com/vbatts/tar-split v0.10.2 // indirect
-	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 )
